@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+ header {
+   background-color: lightblue;
+ }
+
+ nav {
+     background-color: lightblue;
+ }
+
+ h1 {
+     text-align: center;
+     color: blue;
+ }
+
+ li {
+     color: blue;
+ }
+
