@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+ header {
+   background-color: lightblue;
+ }
+
+ nav {
+     background-color: lightblue;
+ }
+
+ h1 {
+     text-align: center;
+     color: green;
+ }
+
+  main img {
+    border: solid 10px blue;
+    display: flex;
+}
+
+.link-header {
+    background-image: linear-gradient(180deg, #42F73E 0%, #36B0D7 9.9%, #19A8D6 88.54%, #ECF029 100%);
+}
